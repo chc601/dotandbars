@@ -1,2 +1,2 @@
 # dotandbars
-Modification of traditional dots and bars game
+Traditional dots and bars game
